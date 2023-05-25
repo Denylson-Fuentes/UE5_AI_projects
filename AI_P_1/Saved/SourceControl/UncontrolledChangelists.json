@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/Characters/AI/AI_NPC.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/Characters/AI/BP_NPC.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/RV/SDF24M957R6V827Z7A2O71.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/WR/XL0FE0I7INYV2EQS7OSK68.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/AH/IIX2WGQM7FC3HM8RT5OCAI.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/Characters/AI/Tasks/BTTask_MoveRandomLocation.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/Characters/AI/BT_NPC.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/Characters/AI/BB_NPC.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/Characters/AI/BTDecorator_CheckScale.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/Characters/AI/BTTask_ClearBlackboardValue.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/Characters/AI/AIObject_PatrolPathPoint.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/Characters/AI/M_Debug.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/Characters/AI/AI_Behavior.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/Characters/AI/BTTask_Patrol.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/WM/VQADXXHX323AQ84FCVNOS8.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YL/GXCAI2XVXTTZUNW8OSFXSF.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/X9/9K1C5LLMT0HETL12L256KP.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/EU/O5EBGZFQDYQDBJ8L3850GD.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/8T/E3MJFS5YQC6HZD8SWQNHS5.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/YS/4KIDY729SR3GUMO4WQL4KU.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/Characters/AI/EPatrolPathOutcome.uasset",
+				"C:/Users/Denylson/Documents/Unreal Engine 5 Projects/AI_P_1/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Denylson/Documents/Unreal Projects/AI_P_1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+			]
+		}
+	]
+}
